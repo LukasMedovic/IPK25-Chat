@@ -37,7 +37,7 @@ Toto je C# klient pre IPK25-CHAT protokol (.NET 9). Implementoval som TCP aj UDP
 
 **Diagram Stavoveho Automatu (FSM):**
 
-![Client FSM Diagram](diagram/client_fsm.svg)
+![Client FSM Diagram](diagram/protocol_fsm_client.svg)
 
 ## Preklad a Spustenie
 
